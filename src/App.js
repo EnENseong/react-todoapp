@@ -81,7 +81,7 @@ handleCompleteChange = (id) => {
         <input type="text" 
         name="value" 
         style={{flex: "10", padding: "5px"}}
-        placeholder="해야 할 일을 입력오."
+        placeholder="해야 할 일을 입력하시오."
         value={this.state.value}
         onChange={this.haadleChange}
         />
